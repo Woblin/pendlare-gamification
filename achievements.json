@@ -2,12 +2,12 @@
     "achievements": [
         {
             "id": "car_passage_1",
-            "date": "2026-06-22",
+            "date": "2026-01-15",
             "img": "/coins/car1.png"
         },
         {
             "id": "car_passage_2",
-            "date": null,
+            "date": "2026-06-22",
             "img": "/coins/car2.png"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "id": "mc_passage_1",
-            "date": null,
+            "date": "2026-05-21",
             "img": "/coins/mc1.png"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "id": "natt_passage_1",
-            "date": null,
+            "date": "2026-05-21",
             "img": "/coins/natt1.png"
         },
         {
