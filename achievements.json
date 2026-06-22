@@ -89,6 +89,16 @@
             "id": "malmo_passage_3",
             "date": null,
             "img": "/coins/malmo3.png"
+        },
+        {
+            "id": "2025",
+            "date": "2025-06-23",
+            "img": "/coins/2025.png"
+        },
+        {
+            "id": "2026",
+            "date": "2026-01-15",
+            "img": "/coins/2026.png"
         }
     ]
 }
