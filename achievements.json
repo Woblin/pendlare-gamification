@@ -16,19 +16,19 @@
             "img": "/coins/car3.png"
         },
         {
-            "id": "cph_passage_1",
-            "date": null,
-            "img": "/coins/cph1.png"
+            "id": "mc_passage_1",
+            "date": "2026-05-21",
+            "img": "/coins/mc1.png"
         },
         {
-            "id": "cph_passage_2",
+            "id": "mc_passage_2",
             "date": null,
-            "img": "/coins/cph2.png"
+            "img": "/coins/mc2.png"
         },
         {
-            "id": "cph_passage_3",
+            "id": "mc_passage_3",
             "date": null,
-            "img": "/coins/cph3.png"
+            "img": "/coins/mc3.png"
         },
         {
             "id": "husvagn_passage_1",
@@ -46,38 +46,8 @@
             "img": "/coins/husvagn3.png"
         },
         {
-            "id": "malmo_passage_1",
-            "date": null,
-            "img": "/coins/malmo1.png"
-        },
-        {
-            "id": "malmo_passage_2",
-            "date": null,
-            "img": "/coins/malmo2.png"
-        },
-        {
-            "id": "malmo_passage_3",
-            "date": null,
-            "img": "/coins/malmo3.png"
-        },
-        {
-            "id": "mc_passage_1",
-            "date": "2026-05-21",
-            "img": "/coins/mc1.png"
-        },
-        {
-            "id": "mc_passage_2",
-            "date": null,
-            "img": "/coins/mc2.png"
-        },
-        {
-            "id": "mc_passage_3",
-            "date": null,
-            "img": "/coins/mc3.png"
-        },
-        {
             "id": "natt_passage_1",
-            "date": "2026-05-21",
+            "date": "2026-01-16",
             "img": "/coins/natt1.png"
         },
         {
@@ -89,6 +59,36 @@
             "id": "natt_passage_3",
             "date": null,
             "img": "/coins/natt3.png"
+        },
+        {
+            "id": "cph_passage_1",
+            "date": "2026-01-15",
+            "img": "/coins/cph1.png"
+        },
+        {
+            "id": "cph_passage_2",
+            "date": null,
+            "img": "/coins/cph2.png"
+        },
+        {
+            "id": "cph_passage_3",
+            "date": null,
+            "img": "/coins/cph3.png"
+        },
+        {
+            "id": "malmo_passage_1",
+            "date": "2026-01-16",
+            "img": "/coins/malmo1.png"
+        },
+        {
+            "id": "malmo_passage_2",
+            "date": null,
+            "img": "/coins/malmo2.png"
+        },
+        {
+            "id": "malmo_passage_3",
+            "date": null,
+            "img": "/coins/malmo3.png"
         }
     ]
 }
