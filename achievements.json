@@ -1,0 +1,94 @@
+{
+    "achievements": [
+        {
+            "id": "car_passage_1",
+            "date": "2026-06-22",
+            "img": "/coins/car1.png"
+        },
+        {
+            "id": "car_passage_2",
+            "date": null,
+            "img": "/coins/car2.png"
+        },
+        {
+            "id": "car_passage_3",
+            "date": null,
+            "img": "/coins/car3.png"
+        },
+        {
+            "id": "cph_passage_1",
+            "date": null,
+            "img": "/coins/cph1.png"
+        },
+        {
+            "id": "cph_passage_2",
+            "date": null,
+            "img": "/coins/cph2.png"
+        },
+        {
+            "id": "cph_passage_3",
+            "date": null,
+            "img": "/coins/cph3.png"
+        },
+        {
+            "id": "husvagn_passage_1",
+            "date": null,
+            "img": "/coins/husvagn1.png"
+        },
+        {
+            "id": "husvagn_passage_2",
+            "date": null,
+            "img": "/coins/husvagn2.png"
+        },
+        {
+            "id": "husvagn_passage_3",
+            "date": null,
+            "img": "/coins/husvagn3.png"
+        },
+        {
+            "id": "malmo_passage_1",
+            "date": null,
+            "img": "/coins/malmo1.png"
+        },
+        {
+            "id": "malmo_passage_2",
+            "date": null,
+            "img": "/coins/malmo2.png"
+        },
+        {
+            "id": "malmo_passage_3",
+            "date": null,
+            "img": "/coins/malmo3.png"
+        },
+        {
+            "id": "mc_passage_1",
+            "date": null,
+            "img": "/coins/mc1.png"
+        },
+        {
+            "id": "mc_passage_2",
+            "date": null,
+            "img": "/coins/mc2.png"
+        },
+        {
+            "id": "mc_passage_3",
+            "date": null,
+            "img": "/coins/mc3.png"
+        },
+        {
+            "id": "natt_passage_1",
+            "date": null,
+            "img": "/coins/natt1.png"
+        },
+        {
+            "id": "natt_passage_2",
+            "date": null,
+            "img": "/coins/natt2.png"
+        },
+        {
+            "id": "natt_passage_3",
+            "date": null,
+            "img": "/coins/natt3.png"
+        }
+    ]
+}
